@@ -17,6 +17,6 @@
     "connect": "^3.6.0",
     "cors": "^2.8.5",
     "js-yaml": "^3.8.2",
-    "swagger-tools": "^0.10.1"
+    "swagger-tools": "^0.10.4"
   }
 }
